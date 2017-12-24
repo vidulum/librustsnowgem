@@ -1,11 +1,11 @@
 [package]
-name = "librustzcash"
+name = "librustsnowgem"
 version = "0.1.0"
 authors = ["Sean Bowe <ewillbefull@gmail.com>"]
 
 [lib]
-name = "rustzcash"
-path = "src/rustzcash.rs"
+name = "rustsnowgem"
+path = "src/rustsnowgem.rs"
 crate-type = ["staticlib"]
 
 [dependencies]

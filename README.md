@@ -1,6 +1,6 @@
-# librustzcash
+# librustsnowgem
 
-This repository contains librustzcash, a static library for Zcash code assets written in Rust.
+This repository contains librustsnowgem, a static library for Snowgem code assets written in Rust.
 
 ## License
 
