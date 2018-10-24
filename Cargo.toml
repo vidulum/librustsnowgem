@@ -1,11 +1,11 @@
 [package]
-name = "librustsnowgem"
+name = "librustvidulum"
 version = "0.1.0"
 authors = ["Sean Bowe <ewillbefull@gmail.com>"]
 
 [lib]
-name = "rustsnowgem"
-path = "src/rustsnowgem.rs"
+name = "rustvidulum"
+path = "src/rustvidulum.rs"
 crate-type = ["staticlib"]
 
 [dependencies]

@@ -1,10 +1,10 @@
-#ifndef LIBRUSTSNOWGEM_INCLUDE_H_
-#define LIBRUSTSNOWGEM_INCLUDE_H_
+#ifndef LIBRUSTvidulum_INCLUDE_H_
+#define LIBRUSTvidulum_INCLUDE_H_
 
 #include <stdint.h>
 
 extern "C" {
-    uint64_t librustsnowgem_xor(uint64_t a, uint64_t b);
+    uint64_t librustvidulum_xor(uint64_t a, uint64_t b);
 }
 
-#endif // LIBRUSTSNOWGEM_INCLUDE_H_
+#endif // LIBRUSTvidulum_INCLUDE_H_

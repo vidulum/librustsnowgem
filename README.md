@@ -1,6 +1,6 @@
-# librustsnowgem
+# librustvidulum
 
-This repository contains librustsnowgem, a static library for Snowgem code assets written in Rust.
+This repository contains librustvidulum, a static library for vidulum code assets written in Rust.
 
 ## License
 
